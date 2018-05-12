@@ -7,7 +7,7 @@
 /*
  * Basic site settings.
  */
-define("SITE_NAME", "Zyrsa.org");
+define("SITE_NAME", "zWeb");
 define("SITE_URL", "http://localhost");
 
 /*
